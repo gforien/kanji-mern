@@ -1,22 +1,20 @@
-# template-project :computer::satellite::video_game::globe_with_meridians::package::zap:
+# kanji-mern :abc::eyes::jp:
 
-![](https://img.shields.io/badge/badge-content-blue)
-[![](https://travis-ci.org/gforien/template-repo.svg?branch=master)](https://travis-ci.org/gforien/template-repo)
-![](https://img.shields.io/github/license/gforien/template-repository)
+[![](https://img.shields.io/badge/heroku-visit-violet)](https://kenji-mern.herokuapp.com)
+[![](https://travis-ci.org/gforien/kanji-mern.svg?branch=master)](https://travis-ci.org/gforien/kanji-mern)
+![](https://img.shields.io/github/license/gforien/kanji-mern)
 
 
-#### Here is a simple description of what it does
+#### Provide a MERN app to view and search japanese kanjis !
 
-<!--- Here are technologies used
 <p style = text-align:center;>
-    <img  src="https://upload.wikimedia.org/wikipedia/fr/3/38/Guitar_Hero_Logo.png" alt="Guitar Hero" height="145" width="199">
-    <img src="https://www.neonmag.fr/content/uploads/2019/04/color-spotify-logo.jpg" alt="Spotify" height="145" width="214">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Osu_new_logo.png" alt="Osu" height="145" width="145">
+    <img height="145" src="https://www.itnetwork.cz/images/46772/lekce5/mdb.png"  >
+    <img height="145" src="https://p7.hiclipart.com/preview/545/451/583/node-js-express-js-javascript-solution-stack-web-application-others.jpg" >
+    <img height="145" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"  >
+    <img height="145" src="https://www.hello-pomelo.com/wp-content/uploads/2019/07/NodeJS.jpg"  >
 </p>
 
-
-Or more simply, a GIF of the app functionning
-
+<!-- 
 ![](screenshot.gif)
 --->
 
@@ -27,14 +25,8 @@ $ npm start
 ```
 
 ## Features :sparkles:
-- feature 1
-- feature 2
-- feature 3
-
-## Sources :books:
-This project is sampled from :
-- [Link 1](https://wikipedia.com)
-- [Link 2](https://github.com)
+- get to see the beautiful list of 2200 most used kanji
+- look up kanji you don't know about
 
 ##
 #### [Gabriel FORIEN](https://github.com/gforien)
